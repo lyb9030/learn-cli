@@ -1,1 +1,1 @@
-let me "thechit frontend developer school 12th" ;
+let me "패킷 프론트앤드 개발자 스쿨 12기" ;
